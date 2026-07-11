@@ -7,6 +7,7 @@ updated_at: "2026-07-11T15:01:28.000Z"
 ai_context: true
 summary: Registro dos primeiros clientes reais (ou tentativas de venda) — quem são, o que foi aprendido com cada um, e sinais de validação ou ajuste necessário.
 tags: []
+order: 2
 ---
 
 Liste aqui cada cliente real ou cada tentativa séria de venda, um a um. Para cada um, registre: quem é (perfil, não precisa de nome completo), como chegou até você, o que foi oferecido, e qual foi o resultado — comprou, não comprou, comprou parte, pediu para pensar.

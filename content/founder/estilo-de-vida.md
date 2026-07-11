@@ -10,6 +10,7 @@ tags:
   - rotina
   - liberdade
   - equilíbrio
+order: 2
 ---
 
 Descreva aqui o estilo de vida que este negócio deveria viabilizar. Pense em rotina diária: que horas você quer acordar, quantas horas quer trabalhar, quanto tempo quer ter livre para família, saúde, hobbies. Pense também em liberdade geográfica — precisa estar em um lugar fixo ou pode operar de qualquer lugar?

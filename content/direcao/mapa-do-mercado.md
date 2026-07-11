@@ -7,6 +7,7 @@ updated_at: '2026-07-11T15:01:12.000Z'
 ai_context: true
 summary: Tamanho, dinâmica e principais forças do mercado-alvo, e onde há espaço de oportunidade.
 tags: []
+order: 1
 ---
 Este é o espaço para mapear o terreno onde o negócio vai jogar. Não precisa ser um relatório de consultoria — o objetivo é ter clareza prática sobre quem mais atua nesse mercado, como ele se movimenta e por que existe espaço para você entrar.
 

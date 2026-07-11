@@ -7,6 +7,7 @@ updated_at: "2026-07-11T15:01:28.000Z"
 ai_context: true
 summary: A versão da oferta em teste no mercado real — o que mudou desde a hipótese inicial e o que está sendo validado agora.
 tags: []
+order: 1
 ---
 
 Descreva aqui a oferta como ela está sendo apresentada de fato ao mercado hoje — não a hipótese original da seção Direção, mas a versão que você já ajustou depois de conversar com o mercado. O que mudou no preço, no formato, na promessa ou no público desde a primeira ideia? Cada ajuste conta uma história sobre o que você aprendeu.

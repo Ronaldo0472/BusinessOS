@@ -7,6 +7,7 @@ updated_at: "2026-07-11T15:01:46.000Z"
 ai_context: true
 summary: Entradas e saídas de dinheiro do negócio — visão de curto prazo de quanto entra, quanto sai, e a saúde financeira imediata.
 tags: []
+order: 1
 ---
 
 Use este espaço para registrar o retrato atual do seu fluxo de caixa: quanto entra por mês, quanto sai, e qual é o saldo resultante. Não precisa ser uma planilha completa aqui — o objetivo é ter, em texto, um resumo vivo de onde o dinheiro do negócio está e para onde ele está indo.

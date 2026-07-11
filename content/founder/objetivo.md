@@ -9,6 +9,7 @@ summary: A motivação pessoal por trás deste negócio — por que ele existe e
 tags:
   - motivação
   - propósito
+order: 1
 ---
 Este é o espaço para registrar, com suas próprias palavras, por que você está construindo este negócio. Não é a missão para o pitch deck — é a razão real, pessoal, que te tira da cama de manhã. Pode ser financeira, pode ser criativa, pode ser sobre autonomia ou sobre provar algo para si mesmo. Escreva sem filtro.
 
