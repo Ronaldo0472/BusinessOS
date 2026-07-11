@@ -7,6 +7,7 @@ updated_at: '2026-07-11T15:01:12.000Z'
 ai_context: true
 summary: A hipótese central de por que o negócio vai gerar valor para o cliente e por que ele pagaria por isso.
 tags: []
+order: 4
 ---
 Este é o espaço para registrar sua hipótese central: por que, especificamente, esse cliente vai encontrar valor real no que você está construindo, e por que ele pagaria por isso em vez de continuar como está (ou usar outra alternativa).
 
