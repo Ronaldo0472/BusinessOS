@@ -7,6 +7,7 @@ updated_at: '2026-07-11T15:01:12.000Z'
 ai_context: true
 summary: O que exatamente será vendido — formato, entrega, e como isso resolve o problema mapeado.
 tags: []
+order: 99
 ---
 Este é o espaço para descrever, de forma concreta, o que exatamente você vai vender. Não é a tese de valor (o "por quê") — é o produto ou serviço em si: o formato, como ele é entregue, o que está incluído e o que fica de fora.
 

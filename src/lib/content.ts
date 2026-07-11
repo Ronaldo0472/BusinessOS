@@ -30,6 +30,7 @@ export interface ContentFrontmatter {
   ai_context: boolean;
   summary: string;
   tags: string[];
+  order: number;
 }
 
 export interface ContentItem extends ContentFrontmatter {
@@ -57,6 +58,7 @@ function normalizeFrontmatter(
     ai_context: typeof raw.ai_context === "boolean" ? raw.ai_context : false,
     summary: typeof raw.summary === "string" ? raw.summary : "",
     tags: Array.isArray(raw.tags) ? raw.tags.map(String) : [],
+    order: typeof raw.order === "number" ? raw.order : 0,
   };
 }
 
@@ -85,7 +87,10 @@ export function getSection(section: string): ContentItem[] {
     return { ...frontmatter, body: content.trim() };
   });
 
-  return items.sort((a, b) => a.title.localeCompare(b.title, "pt-BR"));
+  return items.sort((a, b) => {
+    if (a.order !== b.order) return a.order - b.order;
+    return a.title.localeCompare(b.title, "pt-BR");
+  });
 }
 
 /**
